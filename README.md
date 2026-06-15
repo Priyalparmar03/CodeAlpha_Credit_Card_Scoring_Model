@@ -225,3 +225,9 @@ Through this project, the following concepts are demonstrated:
 ## Conclusion
 
 The Credit Scoring Model successfully predicts customer credit risk using machine learning techniques. By comparing Logistic Regression, Decision Tree, and Random Forest algorithms, the project identifies the most effective model for credit risk assessment and demonstrates the practical application of machine learning in financial decision-making.
+
+
+
+Author 
+Priyal Parmar 
+
